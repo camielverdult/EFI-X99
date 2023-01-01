@@ -1,0 +1,4 @@
+*.aml
+*.efi
+*.kext
+.DS_Store
